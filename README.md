@@ -2,9 +2,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif" width="250" height="250"/>
-
-<br>
 
 Our hope is that this will be helpful in the following ways:
 
